@@ -2,7 +2,7 @@
 
 A modern, responsive AI chatbot interface built entirely with HTML, CSS, and JavaScript. This lightweight web-based chatbot can be easily integrated into any website or used as a standalone application.
 
-![Chatbot Preview](https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/28606a45-27ae-4506-9846-89621f48d42e.png)
+
 
 ## Features
 
